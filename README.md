@@ -1,5 +1,5 @@
 # Utilizing-BioBERT-for-PICO-Evidence-Summarization
-# <div style="padding:20px;color:#f0f2f0;margin:0;font-size:80%;text-align:center;display:fill;border-radius:5px;background-color:#1a0a36;overflow:hidden">Utilizing BioBERT for PICO Evidence Summarization for Medical Literature  related to Heart Disease</div>
+<div style="padding:20px;color:#f0f2f0;margin:0;font-size:80%;text-align:center;display:fill;border-radius:5px;background-color:#1a0a36;overflow:hidden">Utilizing BioBERT for PICO Evidence Summarization for Medical Literature  related to Heart Disease</div>
 <br>
 
 <img src="https://raw.githubusercontent.com/Owaiskhan9654/Utilizing-BioBERT-for-PICO-Evidence-Summarization/main/Logo%20Medical%20Literature%20%20related%20to%20heart%20disease.JPG">
@@ -24,7 +24,7 @@
 
 > I have integrated W&B for visualizations and logging artifacts!
 > 
-> [PICO Evidence Summarization](https://wandb.ai/bminelytics-research-lab/BIOBERT%20NER%20on%20CORD19?workspace=user-owaiskhan9515)
+> [PICO Evidence Summarization](https://wandb.ai/owaiskhan9515/PICO%20Evidence%20Summarization)
 
 
 > 
