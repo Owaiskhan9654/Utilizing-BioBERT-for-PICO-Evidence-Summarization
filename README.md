@@ -2,7 +2,7 @@
 <div style="padding:20px;color:#f0f2f0;margin:0;font-size:80%;text-align:center;display:fill;border-radius:5px;background-color:#1a0a36;overflow:hidden">Utilizing BioBERT for PICO Evidence Summarization for Medical Literature  related to Heart Disease</div>
 <br>
 
-<img src="https://raw.githubusercontent.com/Owaiskhan9654/Utilizing-BioBERT-for-PICO-Evidence-Summarization/main/Logo%20Medical%20Literature%20%20related%20to%20heart%20disease.JPG">
+<img src="https://raw.githubusercontent.com/Owaiskhan9654/Utilizing-BioBERT-for-PICO-Evidence-Summarization/main/Logo%20Medical%20Literature%20%20related%20to%20heart%20disease%202.JPG">
 
 
 - In this work, I have utilized the dataset from the paper published in IEEE Journal of Biomedical and Health Informatics
